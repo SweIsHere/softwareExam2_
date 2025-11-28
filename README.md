@@ -69,3 +69,5 @@ classDiagram
 - La bonificación solo se aplica si **todos** los docentes (lista `allYearsTeachers`) aprueban en el año correspondiente.
 - El valor de puntos extra es configurable (0–5) en el CLI y la nota final se limita por defecto a 20.
 - No se implementó persistencia, coherente con el alcance solicitado.
+
+Este proyecto fue evaluado usando el quality gate de Sonar. Puedes ver los resultados aquí: [Quality Gate Sonar](http://213.199.42.57:9002/quality_gates/show/SONNAR)
